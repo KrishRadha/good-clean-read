@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 <div style="text-align: left">
-<h2>
+<h2 style="float:left">
 Empowering Students with professional skills and their dreams, while offering companies an open flow with academia
 </h2>
 </div>
