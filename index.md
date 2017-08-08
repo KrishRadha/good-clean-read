@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-##connecting academia with industry with [Rainspectra](rainspectra.com "Rain Spectra Strategy")
+#### connecting academia with industry with [Rainspectra](rainspectra.com "Rain Spectra Strategy")
 
 ### Nice, clean, reading!
 
