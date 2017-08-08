@@ -5,7 +5,7 @@ published: true
 ## connecting academia and industry with [Rainspectra](http://rainspectra.com "Rain Spectra Strategy")
 <hr>
 
-<!---
+[comment]: # (
 ### Nice, clean, reading!
 
 
@@ -69,4 +69,4 @@ Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providin
 [^1]: This is a footnote. Click to return.
 
 [^2]: Here is another.
---->
+)
