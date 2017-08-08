@@ -2,7 +2,7 @@
 layout: default
 published: true
 ---
-<div style="text-align: right">
+<div style="text-align: left">
 ## Empowering Students with professional skills and their dreams, while offering companies an open flow with academia
 </div>
 
