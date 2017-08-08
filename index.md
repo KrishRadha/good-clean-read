@@ -1,8 +1,9 @@
 ---
 layout: default
+published: true
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## Empowering Students with professional skills and their dreams, while offering companies an open flow with academia
 
 ### Nice, clean, reading!
 
