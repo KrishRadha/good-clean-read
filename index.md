@@ -18,8 +18,8 @@ Keeping this as focus, Rain Spectra launches a ambitious campaign
 
 At Launch Pad, we offer colleges a platform which equips students with In-Demand courses and further supports the students to connect with the Industry , to have hands-on experience. With the clientile we have on the both sides of the Spectrum , Our courses are widely appreciated and Launch Pad is sought out by most of the companies for their Flagship projects.
 
-If you are a student who is looking for internship offers with our partner companies , please ask your college management to reach out to us at help@rainspectra.com.
+If you are a student who is looking for internship offers with our partner companies , please ask your college management to reach out to us at **help@rainspectra.com.**
 
-If you are a college (or) a company who is looking to partner with us, please reach out to us at help@rainspectra.com
+If you are a college (or) a company who is looking to partner with us, please reach out to us at **help@rainspectra.com**
 
 *Please Note that, Individual applicants / Resumes are not being entertained ( as we are receiving large number of such forms ). Please refrain from mailing. We will appreciate , if you let your management contact us.
