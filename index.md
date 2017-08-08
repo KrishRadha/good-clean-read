@@ -13,6 +13,7 @@ At Rain Spectra, we carefully observe the Education vertical , to serve our clie
 
 This will be beneficiable to both Companies and Students as both of them grow together. Companies, will get better perspectives and contemporary knowledge into their systems, while the students will have their Experience laid out.
 
-Keeping this as focus, Rain Spectra launches a ambitious campaign > Launch Pad.
+Keeping this as focus, Rain Spectra launches a ambitious campaign 
+> Launch Pad.
 
 At Launch Pad, we offer colleges a platform which equips students with In-Demand courses and further supports the students to connect with the Industry , to have hands-on experience. 
