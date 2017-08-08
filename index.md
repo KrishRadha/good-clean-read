@@ -22,4 +22,4 @@ If you are a student who is looking for internship offers with our partner compa
 
 If you are a college (or) a company who is looking to partner with us, please reach out to us at **help@rainspectra.com**
 
-*Please Note that, Individual applicants / Resumes are not being entertained ( as we are receiving large number of such forms ). Please refrain from mailing. We will appreciate , if you let your management contact us.
+_*Please Note that, Individual applicants / Resumes are not being entertained ( as we are receiving large number of such forms ). Please refrain from mailing. We will appreciate , if you let your management contact us.*_
